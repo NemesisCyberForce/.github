@@ -1,7 +1,7 @@
 # Amina Koydum - DevOps+
 ### In search of freedom, be prepared for challenges!
 
-I can't make all my work public on my public account, as it might cause harm. However, you're welcome as a democrat to learn and collaborate with me. It's a labor of love; we won't make money, but we'll face challenges. If you choose this path, you'll understand the true power in the future.
+I can't make all pieces of my work public on my public account, as it might cause harm. However, you're welcome as a democrat to learn and collaborate with me. It's a labor of love; we won't make money, but we'll face challenges. If you choose this path, you'll understand the true power in the future.
 
 We were once the nerds, the targets, the hidden, the hated, and more. Now, we are everyone's favorite and shaping the world that others have damaged. Please forgive my arrogance, if is it!?
 
@@ -10,3 +10,9 @@ We were once the nerds, the targets, the hidden, the hated, and more. Now, we ar
 Is that too harsh for you? Then you might not need to learn what's hidden here. It's a gateway to something terrifying that you'll never forget, even after 30-100 years, and you must endure it! I've had countless sleepless nights, but the peaceful ones can be counted on a single page.
 
 So, if you're truly prepared, support our work and show who you are. We want proof!
+
+- creating Exploits
+- use a sledgehammer
+- creating bots
+- creating visions
+- be batman! Fight again child abuse!
