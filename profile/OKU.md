@@ -1,4 +1,6 @@
 # Özgürlük ve bilgi arayışında
+[deutsch](OKU.md) | [english](README.md)
+
 Özgürlük, barış ve kimlik kavramları, günümüz dünyasında sıkça sorgulanmaktadır. Trolller, ırkçılar, otoriter liderler, diktatörler, demokratlar ve komünistler, halklarına acı çektiriyorlar. Dürüst olalım, demokrasiler de yolsuzluk ve lobi faaliyetlerinden muaf değildir. Burada, dijital dünyamızı daha iyi anlamaya çalışan bir öğrenme topluluğunun parçası olacaksınız.
 
 Dijitalleşmenin ilerlemesiyle birlikte, birçok insan olası zararlar konusunda kayıtsız kalmaktadır. "Saklayacak bir şeyim yok" sıkça duyulan bir ifade olup, virüs yayan sistemlerin ve savunmasız ağların ortaya çıkmasına yol açar. Güvenlik, sadece teknoloji meraklıları için değil, herkes için temel bir endişe olmalıdır.
