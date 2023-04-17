@@ -1,4 +1,5 @@
 # In Search of Freedom and Knowledge
+<img src="https://github.com/CounterHackForce/.github/tree/main/profile/counterhackforce.jpg">
 [türk](https://github.com/CounterHackForce/.github/tree/main/profile/OKU.md) | [deutsch](https://github.com/CounterHackForce/.github/tree/main/profile/LIES-MICH.md)
 
 Freedom, peace, and identity are concepts that often come into question in today's world. Trolls, racists, autocrats, dictators, democrats, and communists all impose suffering on their people. Let's be honest, even democracies are not free from corruption and lobbying. Here, you'll be part of a learning community, striving for a better understanding of our digital world.
