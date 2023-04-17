@@ -1,4 +1,5 @@
 # Auf der Suche nach Freiheit und Wissen
+[türk](OKU.md) | [english](README.md)
 
 
 Freiheit, Frieden und Identität sind Konzepte, die in der heutigen Welt oft infrage gestellt werden. Trolle, Rassisten, Autokraten, Diktatoren, Demokraten und Kommunisten fügen ihren Völkern Leid zu. Seien wir ehrlich, auch Demokratien sind nicht frei von Korruption und Lobbyarbeit. Hier wirst du Teil einer Lerngemeinschaft sein, die nach einem besseren Verständnis unserer digitalen Welt strebt.
