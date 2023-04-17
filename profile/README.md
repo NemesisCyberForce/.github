@@ -1,5 +1,5 @@
 # In Search of Freedom and Knowledge
-<img src="https://github.com/CounterHackForce/.github/tree/main/profile/chf.jpg">
+<img src="chf.jpg">
 
 
 [türk](https://github.com/CounterHackForce/.github/tree/main/profile/OKU.md) | [deutsch](https://github.com/CounterHackForce/.github/tree/main/profile/LIES-MICH.md)
