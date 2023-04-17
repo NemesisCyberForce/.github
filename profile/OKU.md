@@ -1,5 +1,5 @@
 # Özgürlük ve bilgi arayışında
-[deutsch](OKU.md) | [english](README.md)
+[deutsch](LIES-MICH.md) | [english](README.md)
 
 Özgürlük, barış ve kimlik kavramları, günümüz dünyasında sıkça sorgulanmaktadır. Trolller, ırkçılar, otoriter liderler, diktatörler, demokratlar ve komünistler, halklarına acı çektiriyorlar. Dürüst olalım, demokrasiler de yolsuzluk ve lobi faaliyetlerinden muaf değildir. Burada, dijital dünyamızı daha iyi anlamaya çalışan bir öğrenme topluluğunun parçası olacaksınız.
 
