@@ -7,7 +7,7 @@ Freiheit, Frieden und Identität sind Konzepte, die in der heutigen Welt oft inf
 Mit dem Fortschritt der Digitalisierung sind viele Menschen gleichgültig gegenüber den möglichen Schäden, die verursacht werden. "Ich habe nichts zu verbergen" ist ein häufiger Satz, der oft zur Entstehung von virenverseuchten Systemen und verwundbaren Netzwerken führt. Sicherheit sollte ein Grundanliegen für alle sein, nicht nur für Technikbegeisterte.
 
 ### Was dich erwartet
-Indem du dich CounterHackForce anschließt, entscheidest du dich dafür, gegen die Ignoranz und Gleichgültigkeit anzukämpfen, die unsere digitale Welt plagen. Du wirst lernen, zusammenarbeiten und Werkzeuge entwickeln, um Menschen im Angesicht wachsender digitaler Bedrohungen zu schützen und zu stärken. Unser Fokus liegt auf:
+Indem du dich NemesisCyberForce anschließt, entscheidest du dich dafür, gegen die Ignoranz und Gleichgültigkeit anzukämpfen, die unsere digitale Welt plagen. Du wirst lernen, zusammenarbeiten und Werkzeuge entwickeln, um Menschen im Angesicht wachsender digitaler Bedrohungen zu schützen und zu stärken. Unser Fokus liegt auf:
 
 - Erstellen von Exploits, um Sicherheitslücken aufzudecken
 - Nutzen von leistungsstarken Techniken zum Schutz von Systemen
