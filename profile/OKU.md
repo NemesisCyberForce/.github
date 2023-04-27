@@ -6,7 +6,7 @@
 Dijitalleşmenin ilerlemesiyle birlikte, birçok insan olası zararlar konusunda kayıtsız kalmaktadır. "Saklayacak bir şeyim yok" sıkça duyulan bir ifade olup, virüs yayan sistemlerin ve savunmasız ağların ortaya çıkmasına yol açar. Güvenlik, sadece teknoloji meraklıları için değil, herkes için temel bir endişe olmalıdır.
 
 ### Seni neler bekliyor
-CounterHackForce'a katılarak, dijital dünyamızı saran cehalet ve kayıtsızlıkla savaşmayı seçiyorsunuz. Büyüyen dijital tehditler karşısında insanları korumak ve güçlendirmek için öğrenecek, işbirliği yapacak ve araçlar geliştireceksiniz. Odaklandığımız konular:
+NemesisCyberForce'a katılarak, dijital dünyamızı saran cehalet ve kayıtsızlıkla savaşmayı seçiyorsunuz. Büyüyen dijital tehditler karşısında insanları korumak ve güçlendirmek için öğrenecek, işbirliği yapacak ve araçlar geliştireceksiniz. Odaklandığımız konular:
 
 - Güvenlik açıklarını ortaya çıkarmak için exploitler oluşturma
 - Sistemleri korumak için güçlü teknikler kullanma
