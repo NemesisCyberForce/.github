@@ -1,20 +1,18 @@
 # In Search of Freedom and Knowledge
 
+Freedom, peace, and identity are values constantly challenged in today's world. Trolls, extremists, autocrats, dictators, democrats, and communists all impose suffering in different forms. Let’s be honest: even democracies are not free from corruption and lobbying. Here, you’ll be part of a learning community, striving for a deeper understanding of our digital world.
 
-[türk](https://github.com/NemesisCyberForce/.github/tree/main/profile/OKU.md) | [deutsch](https://github.com/NemesisCyberForce/.github/tree/main/profile/LIES-MICH.md)
+As digitalization advances, too many people remain indifferent to the risks involved. *“I have nothing to hide”* is a common phrase – but that mindset often leads to weak systems and vulnerable networks. Security should be a fundamental concern for everyone, not just for tech enthusiasts.
 
-Freedom, peace, and identity are concepts that often come into question in today's world. Trolls, racists, autocrats, dictators, democrats, and communists all impose suffering on their people. Let's be honest, even democracies are not free from corruption and lobbying. Here, you'll be part of a learning community, striving for a better understanding of our digital world.
+## What to Expect
 
-As digitalization advances, too many people are indifferent to the potential harm caused. "I have nothing to hide" is a common phrase, often leading to the creation of more virus-infested systems and vulnerable networks. Security should be a fundamental concern for everyone, not just for tech enthusiasts.
+By joining **NemesisCyberForce**, you’re choosing to stand against ignorance and apathy in the digital world. You’ll be learning, collaborating, and building tools that **protect and empower** people in the face of growing threats. Our focus is on:
 
-### What to Expect
-By joining NemesisCyberForce, you're choosing to fight against the ignorance and apathy that plagues our digital world. You'll be learning, collaborating, and creating tools to protect and empower people in the face of growing digital threats. Our focus is on:
+* Identifying and responsibly disclosing vulnerabilities
+* Applying strong security techniques to safeguard systems
+* Developing ethical automation for protective purposes
+* Envisioning a safer digital future
+* Becoming the digital Batman – fighting against child exploitation, illegal pornography, and other crimes that endanger human dignity
 
-- Creating exploits to expose vulnerabilities
-- Utilizing powerful techniques to safeguard systems
-- Developing bots for good causes
-- Envisioning a safer digital future
-- Becoming the digital Batman – fighting against child abuse and other heinous crimes
-#### Remember, security starts with each one of us. By embracing knowledge, understanding the risks, and taking action, we can make a difference. Join us on this journey and become a force for good in the digital world.
-
-
+Remember: security starts with each of us. By embracing knowledge, recognizing risks, and taking action, we can make a real difference. Join us on this journey and become a force for good in the digital world.
+Willst du, dass ich dir auch noch eine **Disclaimer-Zeile** am Ende baue (z. B. „We strictly reject any form of illegal activity…“), damit das Projekt absolut unangreifbar ist?
